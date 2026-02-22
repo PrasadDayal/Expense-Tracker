@@ -110,7 +110,9 @@ The current system provides a solid foundation for expense tracking. The followi
 ## 👨‍💻 Authors
 
 **Sarthak Bhoknal** *Backend Developer & Frontend Developer*
+---
 **Prasad Dayal** *Backend Developer & Frontend Developer*
+---
 **Rohan Bhandare** *Database Designer*
 
 
