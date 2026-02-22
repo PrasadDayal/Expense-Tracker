@@ -118,18 +118,7 @@ The current system provides a solid foundation for expense tracking. The followi
 
 
 If you have any questions, feedback, or want to collaborate on this project, feel free to reach out!
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
 ---
 
-### 📝 Final Checklist for your Project
-* [ ] Replace `Your Name` with your actual name.
-* [ ] Update the GitHub link with your profile URL.
-* [ ] Update the LinkedIn link with your profile URL.
-* [ ] Add a `LICENSE` file (MIT is recommended for student projects).
-
----
 
 > "Clean code always looks like it was written by someone who cares." — *Robert C. Martin*
