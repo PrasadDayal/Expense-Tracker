@@ -114,6 +114,7 @@ The current system provides a solid foundation for expense tracking. The followi
 **Prasad Dayal** *Backend Developer & Frontend Developer*
 ---
 **Rohan Bhandare** *Database Designer*
+--
 
 
 If you have any questions, feedback, or want to collaborate on this project, feel free to reach out!
